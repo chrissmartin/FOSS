@@ -5,7 +5,7 @@ This is for my foss lab. This repo contains files related to learning git. Every
 
 Chriss Martin
 CSE-A
-Co-FOunder, TYKO
+Co-Founder, TYKO
 
 TYKO
 -------------
